@@ -19,6 +19,5 @@ exports.UNITY = {
 // validation
 exports.VALIDATION = {
 	SUCCESS: 0,
-	FAILURE: 1,
-	POSSIBLE_HACK: 2
+	FAILURE: 1
 };
